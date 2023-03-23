@@ -115,7 +115,7 @@ importers:
       '@glint/core': ^0.9.7
       '@glint/environment-ember-loose': ^0.9.7
       '@glint/environment-ember-template-imports': ^0.9.5
-      '@glint/template': ^0.9.5
+      '@glint/template': ^0.9.7
       '@nullvoxpopuli/eslint-configs': ^2.2.58
       '@tsconfig/ember': ^1.1.0
       '@types/ember': ^4.0.3
@@ -193,7 +193,7 @@ importers:
       '@glint/core': 0.9.7_typescript@4.9.5
       '@glint/environment-ember-loose': 0.9.7_omyqhxi4q2cdsnxawl5244yg5y
       '@glint/environment-ember-template-imports': 0.9.5_pgsaxdkr5kxtuyuz2pwk3hxreq
-      '@glint/template': 0.9.5_@glimmer+component@1.1.2
+      '@glint/template': 0.9.7_@glimmer+component@1.1.2
       '@nullvoxpopuli/eslint-configs': 2.2.60_typescript@4.9.5
       '@tsconfig/ember': 1.1.0
       '@types/ember': 4.0.3_@babel+core@7.21.0
@@ -2461,7 +2461,7 @@ packages:
       ember-template-imports: ^3.0.0
     dependencies:
       '@glint/environment-ember-loose': 0.9.7_omyqhxi4q2cdsnxawl5244yg5y
-      '@glint/template': 0.9.5_@glimmer+component@1.1.2
+      '@glint/template': 0.9.7_@glimmer+component@1.1.2
       ember-template-imports: 3.1.2_ember-cli-htmlbars@6.2.0
     transitivePeerDependencies:
       - '@glimmer/component'
